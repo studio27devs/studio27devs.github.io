@@ -18,9 +18,9 @@ $(document).ready(function() {
     });
   });
 
-var screen = screen.width;
+var window = screen.width;
 
-if(screen < 500) {
+if(window < 500) {
   $('body').css('background','#ccd5da');
 }
 
