@@ -6,14 +6,17 @@ body {
   margin: 0 auto;
 }
 h1 {
+  font-family: 'Raleway', sans-serif;
   font-size: 60px;
   padding: 50px;
 }
 div {
+  font-family: 'Raleway', sans-serif;
   font-size: 40px;
   margin: 0 auto;
 }
 h4 {
+  font-family: 'Raleway', sans-serif;
   margin: 50px;
   font-size: 30px;
   color: black;
@@ -45,10 +48,12 @@ h4 {
 }
 
 h2 {
+  font-family: 'Raleway', sans-serif;
   font-size: 45px;
   margin-top: 60px;
 }
 p {
+  font-family: 'Raleway', sans-serif;
   font-size: 25px;
   margin: 35px;
 }
