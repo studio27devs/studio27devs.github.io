@@ -59,6 +59,7 @@ p {
 }
 @media (min-width: 500px) {
   margin: 0 auto;
+  background: url("http://gdurl.com/y_8j") 100%;
 }
 #project-img {
   margin: 25px;
