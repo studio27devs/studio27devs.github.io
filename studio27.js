@@ -1,5 +1,6 @@
 document.createElement("section");
 $(document).ready(function() {
+
   $('.text-primary').text('Studio 27 Web Design');
   $('h2').addClass('text-primary');
   
@@ -16,4 +17,11 @@ $(document).ready(function() {
       });
     });
   });
+
+var screen = screen.width;
+
+if(screen < 500) {
+  $('body').css('background','#ccd5da');
+}
+
 });
