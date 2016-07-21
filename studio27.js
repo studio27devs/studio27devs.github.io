@@ -19,7 +19,7 @@ $(document).ready(function() {
 
 var window = screen.width;
 
-if(window < 500) {
+if(window < 800) {
   $('body').css('background','#ccd5da');
 }
 
