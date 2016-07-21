@@ -1,7 +1,6 @@
 document.createElement("section");
 $(document).ready(function() {
 
-  $('.text-primary').text('Studio 27 Web Design');
   $('h2').addClass('text-primary');
   
   $window = $(window);
