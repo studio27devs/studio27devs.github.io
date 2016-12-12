@@ -57,12 +57,8 @@ p {
   font-size: 25px;
   margin: 35px;
 }
-@media (min-width: 500px) {
-  margin: 0 auto;
-  background: url("http://gdurl.com/y_8j");
-}
 #project-img {
-  margin: 25px;
+  margin: 25px 25px 25px 25px;
   border-radius: 10px;
   border-style: solid;
   border-width: 3px;
