@@ -48,6 +48,8 @@ h4 {
 }
 
 .tooltip {
+  position: absolute;
+    display: none;
   color: black;
   background-color: rgba(255,255,255,.5);
   border-radius: 50px;
