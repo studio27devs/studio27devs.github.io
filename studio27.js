@@ -23,7 +23,7 @@ if(window < 800) {
   $('body').css('background','#ccd5da');
 }
   
-  $(".projects").hover(function(e) {
+  $("#project-img").hover(function(e) {
     $($(this).data("tooltip")).css({
         left: e.pageX + 1,
         top: e.pageY + 1,
