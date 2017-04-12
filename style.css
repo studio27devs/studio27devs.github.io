@@ -49,11 +49,11 @@ h4 {
 
 .tooltip {
   font-family: 'Raleway', sans-serif;
-  font-size: 15px;
+  font-size: 25px;
   position: absolute;
   display: none;
   color: white;
-  background: rgba(0,0,0,.7);
+  background: rgba(0,0,0,.8);
   border-radius: 20px;
   padding: 10px 10px 10px 10px;
 }
