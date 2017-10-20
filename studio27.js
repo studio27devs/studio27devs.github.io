@@ -1,6 +1,8 @@
 document.createElement("section");
 $(document).ready(function() {
   
+  $('h2').addClass('white-text');
+  
   $window = $(window);
 
   $('section[data-type="background"]').each(function() {
