@@ -1,7 +1,5 @@
 document.createElement("section");
 $(document).ready(function() {
-
-  $('h2').addClass('text-primary');
   
   $window = $(window);
 
