@@ -21,6 +21,11 @@ h4 {
   font-size: 30px;
   color: black;
 }
+
+img .center-block {
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
 .navbar-header .navbar-brand {
   font-size: 20px;
 }
