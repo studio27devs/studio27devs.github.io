@@ -1,4 +1,5 @@
 document.createElement("section");
+
 $(document).ready(function() {
   
   $('h2').addClass('white-text');
@@ -36,5 +37,13 @@ if(window < 800) {
 
 });
 
+function changeCopyrightDate(){
+    var year = new Date();
+    var getYear = year.getFullYear();
 
+    year = getYear;
 
+    document.getElementById('copyrightDate').innerHTML = year + " Studio 27 Developers";
+}
+
+changeCopyrightDate();
