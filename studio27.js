@@ -21,7 +21,7 @@ $(document).ready(function() {
 var window = screen.width;
 
 if(window < 800) {
-  $('body').css('background','#ccd5da');
+  $('body').css('background-color','rgba(255,85,0,.5');
 }
   
   $(".project-img").hover(function(e) {
