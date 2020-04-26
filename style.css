@@ -2,7 +2,7 @@ body {
   font-family: 'Raleway', sans-serif;
   text-align: center;
   color: black;
-  background: url("http://www.giftgrove.com/photos/CWPortfolioImages/portfoliobackground3.jpg") 75% fixed no-repeat;
+  background: url("http://www.giftgrove.com/photos/CWPortfolioImages/portfoliobackground3.jpg") 100% fixed no-repeat;
   margin: 0 auto;
 }
 h1 {
@@ -12,7 +12,7 @@ h1 {
   color: white;
 }
 .btn-orange{
-  background-color: rgba(255,85,0,0.7);
+  background-color: rgb(255,85,0);
   color: white;
 }
 div {
@@ -43,7 +43,7 @@ h4 {
 .navbar-header .navbar-brand:focus,
 .navbar .nav li:hover,
 .navbar .nav li:focus {
-  background-color: white;
+  background-color: rgba(255,85,0,0.6);
   color: black;
 }
 
