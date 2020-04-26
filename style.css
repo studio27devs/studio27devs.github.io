@@ -2,7 +2,7 @@ body {
   font-family: 'Raleway', sans-serif;
   text-align: center;
   color: black;
-  background: url("http://www.giftgrove.com/photos/CWPortfolioImages/portfoliobackground1.JPG") 100% fixed no-repeat;
+  background: url("http://www.giftgrove.com/photos/CWPortfolioImages/portfoliobackground3.jpg") 75% fixed no-repeat;
   margin: 0 auto;
 }
 h1 {
@@ -47,7 +47,7 @@ h4 {
 }
 
 .text-box{
-  background-color: rgba(255,255,255,.5);
+  background-color: rgba(255,85,0,.5);
   border-radius: 50px;
   min-width: 200px;
   max-width: 750px;
@@ -58,7 +58,7 @@ h4 {
 }
 
 .gd-box{
-  background-color: rgba(255,255,255,.5);
+  background-color: rgba(255,85,0,.5);
   border-radius: 50px;
   min-width: 200px;
   max-width: 1000px;
