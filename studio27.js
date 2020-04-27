@@ -43,7 +43,7 @@ function changeCopyrightDate(){
 
     year = getYear;
 
-    document.getElementById('copyrightDate').innerHTML = year + " Studio 27 Developers";
+    document.getElementById('copyrightDate').innerHTML = '<i class="fa fa-copyright"></i> ' + year + " Studio 27 Developers";
 }
 
 changeCopyrightDate();
