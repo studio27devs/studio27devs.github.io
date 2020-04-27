@@ -39,10 +39,6 @@ h4 {
   font-size: 20px;
 }
 
-nav {
-  background-color: rgba(255,85,0,0.6);
-  color: black;
-}
 .navbar-header .navbar-brand:hover,
 .navbar-header .navbar-brand:focus,
 .navbar .nav li:hover,
@@ -132,12 +128,6 @@ p {
  display: inline-block; 
 }
 
-
-#tweet {
-  margin-top: 75px;
-  margin-bottom: 50px;
-}
-
 .studio-27 {
   font-family: 'Raleway', sans-serif;
   border-radius: 35px;
@@ -149,13 +139,4 @@ p {
 }
 .studio-27 h3 {
   font-size: 18px;
-}
-.studio-27 a {
-  color: #0079c0;
-}
-.studio-27 .fa-twitter {
-  color: #0079c0;
-}
-.studio-27 .fa-list {
-  color: #ff005a;
 }
